@@ -1,5 +1,5 @@
 #a imagem a ser usada de base
-FROM mysql
+FROM node
 #informar o diretório padrão
 WORKDIR /
 #variáveis de ambiente durante build do dockerfile
